@@ -254,7 +254,25 @@ dynamic resource provisioning
 ensure icicle team has CI resources they need to carry out work
 ensure the team has access and knowledge of resources. Scheduling webinars, distributing information on resources
 
+# QNA
+is there a threat of imbalanced development of thrusts that will result in inefficiency? Yes. Communication is essential. When one thrust stops making progress, the entire project should be adusted to compensate. That is a problem with any large institute
+different people contribute in different ways. IMportant that the organization is structured so that it is adaptable so that people and resources can be allocated in an efficient and malleable manner
 
+everyone must be connected
+
+distrbuted efforts are good, but all organizations should have sufficient interconnection of those separate efforts when they must be connected eventually.
+
+plug and play will be essential for making drone deployment and data analysis easier for fields. Make everything push a button
+
+provide felxibility to run on the cloud on on HPC systems. Cloud is much more expensive though. 
+
+Where would the end user benefit from using hpc over cloud. 
+
+what are commons? open repositories of models to make plug and play easier, facilitate use of the models.
+
+performance portrability? run models on diverse platforms
+
+context is everything, its what gives the intelligent organization the ability to decide how datasets and models are used
 
 
 
