@@ -274,6 +274,83 @@ performance portrability? run models on diverse platforms
 
 context is everything, its what gives the intelligent organization the ability to decide how datasets and models are used
 
+# Icicle broader impacts
+Unique implementation of collective impact, framework to bring about mutually reinforcing impact across icicle.
+broadening participation in computing, diversity, equity, and inclusion, workforce development, and collaboration and knowledge transfer. Backbone coordination is called icicle broader impacts  backbone network
+
+BIBN
+
+You have 3 prongs of the project wide interleaving. The icicle thrust develops training for CI professionals, uses BIBN to reache underrepresented groups, and refactor training for greater accessibility
+
+governance was established extended to members. Encompasses membership across core backbone and affiliates, and allies
+
+agility toward new contributions, adaptable to new contributions
+
+shared administrative functions to streamline communication, common progress measures and web pages
+
+Goal:
+build a culture of inclusivity on the infastructure. Increase diversity
+
+# preparing AI ready workforce
+BIBN network will help guide the process, logic models
+knowledge transfer
+stimulate professional growth across the team. 
+Catalog training programs 
+
+make sure the technology to make these resources accessible
+
+objectives:
+professional growth across the team
+software and reference architecture projects
+
+2 nsf cyber training events
+
+education on the new resources is essential to make them useful
+
+CIML
+
+accessible resources for HPC and AI education
+
+# Multidisciplinary INtegration and community building
+
+community building, overllaping of 3 main fields, AI, CI, and Domain. All connected by use cases. Ecology, agriculture, and foodsheds. All 3 fields contribute to these use cases
+
+deep integration
+reference architecture
+icicle enables institute scale efforts
+
+teams meet biweekly
+use cases help inform the six projects and drive new research
+helps to integrate the workforce for multidisciplinary efforts on Icicle. Unified information is essential
+
+multi organization synergy:
+the use cases are providing the core disciplines and goals for producing AI infrastructure.
+As a result, all the people at all the institutions are working towards a common goal and inside the same infrastructure. Extremely helpful in building up the computing infrastructure and continuum
+
+The projects underpin everything
+
+unified infrastructure allows AI to be enabled at the flick of a switch
+this is essential for the process of democratization. Unified infrastructure streamlines the backend so the human element and national priorities can remain the focus, rather than software and hardware
+
+interconnecet collected data on operations and feed it back into training. Broadening achievement and education, as well as democratizati9on
+
+cross communication has been built in
+
+Inheritance of multidsciplinary structure which has potential to grow or create new centers of AI leadership
+
+basically interconnect different industries and turn them into their own centers of AI. Its like a cyberinfrastructure highway system, and new institutes are transport hubs and cities running on AI.
+
+# Institute as a nexus point
+increased understanding and connection between disciplines comes with experience and time
+unified cyberinfrastructure allows easier multidisciplinary activities
+it also makes it easier to add new organizations to the cyberinfrastructure system. Everything is about scalability
+
+overall: how can we design intelligent cyberinfrastructure for computing?
+
+the long term goal?
+Establish a nation wide cyberinfrastructure system to ensure efficient and safe democratized access to AI and HPC
+
+
 
 
 
