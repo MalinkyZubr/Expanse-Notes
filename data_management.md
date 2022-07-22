@@ -84,6 +84,7 @@ RAM FS      | 10000s              | GB              | Several GB/s
 NFS         | 100s                | GB              | 100 MB/s
 LUSTRE      | 100s                | TB              | 100 GB/s
 
+## Typical LFS
 
 
 
