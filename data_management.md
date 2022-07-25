@@ -7,6 +7,20 @@ external hard drives, remote machines
 hard drives on local machine
 supercomputer
 
+## traditional data management tools
+1. scpL secure copy (remote file copy program)
+2. sftp secure file transfer 
+3. rsync, fast versatile copying tool from remote computer
+
+### Open Science Chain
+utilizes blockchain to store information abpout data and data in general to track and manage. Open Science chain.org
+very good if the datasert is evolving and you want live tracking of its data and metadata
+
+### hpcshare 
+very useful for sharing data from and on hpc systems
+
+can also create small visualizations of file formats, json and csv only however
+
 performance and scalability of application
 
 Globus:
@@ -84,9 +98,12 @@ RAM FS      | 10000s              | GB              | Several GB/s
 NFS         | 100s                | GB              | 100 MB/s
 LUSTRE      | 100s                | TB              | 100 GB/s
 
-## Typical LFS
+the LFS can also distribute files across multiple OSTs in a process called striping, in case those files cant fit in one place. This also helps improve3 the bandwidth of operations
 
-
+## LFS Commands
+1. lfs help: list all commands available
+2. lfs getstripe (file_name): display the stripe data of a file
+3. lfs setstripe -c 16 testout
 
 
 
